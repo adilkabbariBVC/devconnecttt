@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "40af",
+      "login": "adilkabbariBVC",
+      "name": "adilkabbariBVC",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196851477?v=4",
+      "bio": "",
+      "location": {
+        "latitude": 51.42342342342342,
+        "longitude": -113.08395287867832
+      }
+    },
+    {
+      "id": "1d75",
+      "login": "salim",
+      "name": "salim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14582?v=4",
+      "bio": "",
+      "location": {
+        "latitude": 51.0568244,
+        "longitude": -113.9791029
+      }
+    },
+    {
+      "id": "122f",
+      "login": "mike",
+      "name": "mike",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1550195?v=4",
+      "bio": "",
+      "location": {
+        "latitude": 51.42342342342342,
+        "longitude": -113.08395287867832
+      }
+    },
+    {
+      "id": "3228",
+      "login": "nathan",
+      "name": "Nathan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1578238?v=4",
+      "bio": "",
+      "location": {
+        "latitude": 51.42342342342342,
+        "longitude": -113.08395287867832
+      }
+    }
+  ]
+}
